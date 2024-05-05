@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\theos\\source\\repos\\KasirApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|C:\\Users\\theos\\source\\repos\\KasirApp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -40,27 +40,27 @@
               "RelativeDocumentMoniker": "KasirApp\\KasirForm.Designer.cs",
               "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs",
               "RelativeToolTip": "KasirApp\\KasirForm.Designer.cs",
-              "ViewState": "AQIAANQAAAAAAAAAAAAAAMAAAAAAAAAA",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAO8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T16:54:53.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KasirForm.cs",
               "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
               "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
               "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
               "RelativeToolTip": "KasirApp\\KasirForm.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAgwBcAAAAfAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T15:45:20.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KasirForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
               "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
@@ -80,8 +80,7 @@
               "RelativeToolTip": "KasirApp\\KasirApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T13:16:23.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T13:16:23.562Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "KasirApp\\ConnectionDb.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T11:10:15.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T11:10:15.529Z"
             }
           ]
         }

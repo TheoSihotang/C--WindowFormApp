@@ -45,6 +45,11 @@
             button1 = new Button();
             button2 = new Button();
             dataGridView1 = new DataGridView();
+            No = new DataGridViewTextBoxColumn();
+            BarangID = new DataGridViewTextBoxColumn();
+            Nama = new DataGridViewTextBoxColumn();
+            JmlBeli = new DataGridViewTextBoxColumn();
+            SubTotal = new DataGridViewTextBoxColumn();
             textBox5 = new TextBox();
             textBox6 = new TextBox();
             textBox7 = new TextBox();
@@ -221,18 +226,57 @@
             button2.TabIndex = 15;
             button2.Text = "Add";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { No, BarangID, Nama, JmlBeli, SubTotal });
             dataGridView1.Location = new Point(26, 370);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(813, 259);
             dataGridView1.TabIndex = 16;
             // 
+            // No
+            // 
+            No.HeaderText = "No";
+            No.MinimumWidth = 6;
+            No.Name = "No";
+            No.Width = 125;
+            // 
+            // BarangID
+            // 
+            BarangID.HeaderText = "BarangID";
+            BarangID.MinimumWidth = 6;
+            BarangID.Name = "BarangID";
+            BarangID.Width = 125;
+            // 
+            // Nama
+            // 
+            Nama.HeaderText = "Nama";
+            Nama.MinimumWidth = 6;
+            Nama.Name = "Nama";
+            Nama.Width = 200;
+            // 
+            // JmlBeli
+            // 
+            JmlBeli.HeaderText = "JmlBeli";
+            JmlBeli.MinimumWidth = 6;
+            JmlBeli.Name = "JmlBeli";
+            JmlBeli.Width = 125;
+            // 
+            // SubTotal
+            // 
+            SubTotal.HeaderText = "SubTotal";
+            SubTotal.MinimumWidth = 6;
+            SubTotal.Name = "SubTotal";
+            SubTotal.Width = 200;
+            // 
             // textBox5
             // 
+            textBox5.BackColor = SystemColors.Info;
+            textBox5.Enabled = false;
             textBox5.Location = new Point(135, 105);
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(125, 27);
@@ -249,6 +293,8 @@
             // 
             // textBox7
             // 
+            textBox7.BackColor = SystemColors.Info;
+            textBox7.Enabled = false;
             textBox7.Location = new Point(643, 108);
             textBox7.Name = "textBox7";
             textBox7.Size = new Size(125, 27);
@@ -370,6 +416,7 @@
             button4.TabIndex = 27;
             button4.Text = "Save";
             button4.UseVisualStyleBackColor = false;
+            button4.Click += button4_Click;
             // 
             // KasirForm
             // 
@@ -441,5 +488,10 @@
         private TextBox textBox9;
         private TextBox textBox10;
         private Button button4;
+        private DataGridViewTextBoxColumn No;
+        private DataGridViewTextBoxColumn BarangID;
+        private DataGridViewTextBoxColumn Nama;
+        private DataGridViewTextBoxColumn JmlBeli;
+        private DataGridViewTextBoxColumn SubTotal;
     }
 }
