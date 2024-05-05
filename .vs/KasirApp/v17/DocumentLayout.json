@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theos\\source\\repos\\KasirApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|C:\\Users\\theos\\source\\repos\\KasirApp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|c:\\users\\theos\\source\\repos\\kasirapp\\kasirapp\\kasirapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCF1D518-2458-45BF-AB91-6FA324705A52}|KasirApp\\KasirApp.csproj|solutionrelative:kasirapp\\kasirapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KasirForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.Designer.cs",
+              "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.Designer.cs",
+              "RelativeToolTip": "KasirApp\\KasirForm.Designer.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAAAMAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:54:53.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KasirForm.cs",
+              "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
+              "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeToolTip": "KasirApp\\KasirForm.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:45:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KasirForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs",
+              "RelativeDocumentMoniker": "KasirApp\\KasirForm.cs",
+              "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirForm.cs [Design]",
+              "RelativeToolTip": "KasirApp\\KasirForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:17:01.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KasirApp.csproj",
+              "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirApp.csproj",
+              "RelativeDocumentMoniker": "KasirApp\\KasirApp.csproj",
+              "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\KasirApp.csproj",
+              "RelativeToolTip": "KasirApp\\KasirApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T13:16:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionDb.cs",
+              "DocumentMoniker": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\ConnectionDb.cs",
+              "RelativeDocumentMoniker": "KasirApp\\ConnectionDb.cs",
+              "ToolTip": "C:\\Users\\theos\\source\\repos\\KasirApp\\KasirApp\\ConnectionDb.cs",
+              "RelativeToolTip": "KasirApp\\ConnectionDb.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:10:15.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
